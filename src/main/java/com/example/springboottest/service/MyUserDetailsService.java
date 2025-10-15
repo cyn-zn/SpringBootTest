@@ -1,6 +1,6 @@
 package com.example.springboottest.service;
 
-import com.example.springboottest.common.User;
+import com.example.springboottest.bean.User;
 import com.example.springboottest.mapper.UserMapper;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

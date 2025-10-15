@@ -1,4 +1,4 @@
-package com.example.springboottest.common;
+package com.example.springboottest.bean;
 
 import lombok.Builder;
 import lombok.Data;

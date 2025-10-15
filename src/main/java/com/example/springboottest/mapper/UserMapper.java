@@ -1,6 +1,6 @@
 package com.example.springboottest.mapper;
 
-import com.example.springboottest.common.User;
+import com.example.springboottest.bean.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
